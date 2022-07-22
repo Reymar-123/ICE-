@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/drawable/shape.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_about.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_admin_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_admin_edit_alcala.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_admin_login.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_alcala_station.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_baustista_station.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_bautista_station.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_bfp.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_bfp_station.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_binalonan_station.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_call_mdrrmc.xml" value="0.264" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_laoac_station.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_list_of_station.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_pdrrmo.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_pdrrmo_station.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_pnp.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_pnp_station.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_pozorrubio_station.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_redcross.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_redcross_station.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_register.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_santo_tomas_station.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_sison_station.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_urdaneta_station.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_villasis_station.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/activity_visit_mdrrmc.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/content_main.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/nav_header.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/layout/slider_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Kirk Irish Esteban/AndroidStudioProjects/ICE/app/src/main/res/menu/nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
